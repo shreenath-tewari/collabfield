@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.5'
 
 # gems for bootstrap
 gem 'bootstrap', '~> 4.1.3'
+gem "bootstrap_form", ">= 4.0.0"
 
 # devise for authentication
 gem 'devise'
